@@ -1,0 +1,6 @@
+name: ClientPlugin
+version: '${project.version}'
+main: com.example.clientplugin.Main
+api-version: 1.16
+authors: [ timurroot ]
+description: Client plugin for server
